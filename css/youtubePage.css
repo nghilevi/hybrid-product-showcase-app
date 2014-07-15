@@ -1,0 +1,22 @@
+body {
+	font-family: "Helvetica", Arial, sans-serif;
+}
+
+
+#videolist img {
+	display: block;
+	width: 90%;
+}
+
+#videolist h3 {
+	margin: 15px 0 5px 0;
+	height: 35px;
+	overflow: hidden;
+	font-size: 1em;
+	color: green;
+}
+
+#videolist img {
+	width: 90%;
+}
+

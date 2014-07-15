@@ -1,0 +1,9 @@
+pop1-popup, pop2-popup {
+    width: 80%;
+    left: 10%;
+    right: 10%
+}
+
+#pop1, #pop2{
+	font-size: 22px;
+}
