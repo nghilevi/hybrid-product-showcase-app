@@ -14,6 +14,8 @@ An HTML5 app suitable for restaurants, foodstalls, bars, beverage sellers etc to
 ![](https://raw.githubusercontent.com/vinhnghi223/Restaurant-App/master/screenshot1.PNG)
 
 ##Demo notes##
+[Web Demo](http://www.codingisloving.com/WEBAPPS/CRestaurant-App/index.html)
+
 APK File (Click on Raw to download): [Download](Updated later).
 
 XAPP File (Click on Raw to download): [Download](Updated later).
