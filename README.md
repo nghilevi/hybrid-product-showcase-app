@@ -11,7 +11,7 @@
 An HTML5 app suitable for restaurants, foodstalls, bars, beverage sellers etc to showcase their products and get customer followed them in social network.
 
 ##Screenshots##
-(Updated later)
+![](https://raw.githubusercontent.com/vinhnghi223/Restaurant-App/master/screenshot1.PNG)
 
 ##Demo notes##
 APK File (Click on Raw to download): [Download](Updated later).
